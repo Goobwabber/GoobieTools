@@ -1,0 +1,33 @@
+{
+    "name": "GoobieTools.VrcfNdmfResolver.Editor",
+    "rootNamespace": "GoobieTools.VrcfNdmfResolver.Editor",
+    "references": [
+        "GUID:00ee03a4e4c0c16429184f1d71004404",
+        "GUID:39d1dbadd2db07f4abdd7cb6b900708d",
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+        "GUID:3a48074f337050d4c987242d92d466b6",
+        "GUID:5a5a85170ae74fe7b1fbc680b36b7122"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.vrcfury.vrcfury",
+            "expression": "",
+            "define": "VRCF"
+        },
+        {
+            "name": "nadena.dev.ndmf",
+            "expression": "",
+            "define": "NDMF"
+        }
+    ],
+    "noEngineReferences": false
+}
